@@ -1,0 +1,17 @@
+{
+  "name": "campus-wifi-android",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "setup": "node setup.mjs",
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest"
+  }
+}

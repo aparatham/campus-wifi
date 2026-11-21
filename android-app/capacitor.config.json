@@ -1,0 +1,10 @@
+{
+  "appId": "edu.tkm.campuswifi",
+  "appName": "Campus Wifi",
+  "webDir": "www",
+  "server": {
+    "url": "https://REPLACE-WITH-YOUR-DEPLOYED-APP-URL",
+    "cleartext": false,
+    "androidScheme": "https"
+  }
+}
